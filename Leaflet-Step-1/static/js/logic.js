@@ -1,7 +1,7 @@
 // Creating map object
 var myMap = L.map("map", {
   center: [40.52, -87.2123],
-  zoom: 6
+  zoom: 5
 });
 
 //Mapbox background
